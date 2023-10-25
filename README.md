@@ -22,4 +22,4 @@ The primary goal of this project is to provide a functional implementation of pi
 2. Compile the Pipex program using a compatible C compiler.
 3. Execute the program, providing the desired commands, input files, and output files.
 
-This project serves as an educational and practical tool for comprehending the fundamental concepts of pipes in UNIX systems and learning how to implement them in C. Explore, experiment, and expand your knowledge of data stream manipulation in the world of system programming!
+This project serves as an educational and practical tool for comprehending the fundamental concepts of pipes in UNIX systems and learning how to implement them in C.
