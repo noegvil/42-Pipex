@@ -4,7 +4,7 @@
 
 This repository contains a C project that simulates the behavior of pipes in the UNIX operating system. The Pipex program allows you to perform the same operation as the following command:
 
-$> < file1 command1 | command2 > file2
+```$> < file1 command1 | command2 > file2```
 
 
 The primary goal of this project is to provide a functional implementation of pipes in C, enabling the redirection and communication of data streams between two commands, similar to how it's done in the UNIX command line. This implementation is valuable for gaining a deep understanding of pipe mechanics and how they can be used in system programming.
